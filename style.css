@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Integral';
+    src: url("IntegralCF-Bold.otf");
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+#yesno {
+    font-family: 'Integral';
+    font-size: 75px;
+    color: #51f142;
+    text-align: center;
+    margin-top: 250px;
+}
+
+#status {
+    font-family: 'Integral';
+    font-size: 30px;
+    color: #ffffffd3;
+    text-align: center;
+    margin-top: -50px;
+}
