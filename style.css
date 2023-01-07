@@ -7,10 +7,18 @@ body {
     background-color: #1a1a1a;
 }
 
-#yesno {
+#yes {
     font-family: 'Integral';
     font-size: 75px;
-    color: #56ff4a;
+    color: #53fa4d;
+    text-align: center;
+    margin-top: 250px;
+}
+
+#no {
+    font-family: 'Integral';
+    font-size: 75px;
+    color: #f73e3e;
     text-align: center;
     margin-top: 250px;
 }
